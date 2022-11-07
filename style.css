@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://media.istockphoto.com/id/1320169616/vector/digital-painting.jpg?s=612x612&w=0&k=20&c=AYoOC09BborUiJTpq57FGutjJQ-PNrlATdo5RFWAe8c=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dwarf {
+    width: 100px;
+    height: 100px;
+}
+
+.elf {
+    width: 200px;
+    height: 150px;
+}
+
+.evil-santa {
+    width: 250px;
+    height: 250px;
+}
